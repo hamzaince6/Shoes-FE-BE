@@ -1,0 +1,12 @@
+D:\ASP.NET\Shoes\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+D:\ASP.NET\Shoes\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+D:\ASP.NET\Shoes\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+D:\ASP.NET\Shoes\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
