@@ -2,15 +2,7 @@
 
 namespace DataAccessLayer.Abstract;
 
-public interface IMainDal
+public interface IMainDal : IGenericDal<Main>
 {
-    List<Main> listAllMain();
-    
-    void MainAdd(Main main);
-    
-    void MainDelete(Main main);
-    
-    void MainUpdate(Main main);
-
-    Main GetById(int id);
+ 
 }

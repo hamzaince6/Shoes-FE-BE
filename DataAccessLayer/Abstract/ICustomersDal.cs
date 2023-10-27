@@ -2,15 +2,7 @@
 
 namespace DataAccessLayer.Abstract;
 
-public interface ICustomersDal
+public interface ICustomersDal: IGenericDal<Customers>
 {
-    List<Customers> listAllCustomers();
-    
-    void CustomersAdd(Customers customers);
-    
-    void CustomersDelete(Customers customers);
-    
-    void CustomersUpdate(Customers customers);
-
-    Customers GetById(int id);
+   
 }

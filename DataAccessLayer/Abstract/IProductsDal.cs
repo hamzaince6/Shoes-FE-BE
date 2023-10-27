@@ -2,15 +2,7 @@
 
 namespace DataAccessLayer.Abstract;
 
-public interface IProductsDal
+public interface IProductsDal : IGenericDal<Products>
 {
-    List<Products> ListAllProducts();
-    
-    void ProductsAdd(Products products);
-    
-    void ProductsDelete(Products products);
-    
-    void ProductsUpdate(Products products);
-
-    Products GetById(int id);
+  
 }

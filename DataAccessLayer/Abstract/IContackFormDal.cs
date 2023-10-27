@@ -2,15 +2,8 @@
 
 namespace DataAccessLayer.Abstract;
 
-public interface IContackFormDal
+public interface IContackFormDal: IGenericDal<ContackForm>
 {
-    List<ContackForm> listAllContackForm();
-    
-    void ContackFormAdd(ContackForm contackForm);
-    
-    void ContackFormDelete(ContackForm contackForm);
-    
-    void ContackFormUpdate(ContackForm contackForm);
 
-    ContackForm GetById(int id);
+    
 }

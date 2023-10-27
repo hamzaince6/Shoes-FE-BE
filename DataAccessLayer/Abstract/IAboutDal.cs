@@ -2,15 +2,7 @@
 
 namespace DataAccessLayer.Abstract;
 
-public interface IAboutDal
+public interface IAboutDal: IGenericDal<About>
 {
-    List<About> listAllAbout();
     
-    void AboutAdd(About about);
-    
-    void AboutDelete(About about);
-    
-    void AboutUpdate(About about);
-
-    About GetById(int id);
 }
