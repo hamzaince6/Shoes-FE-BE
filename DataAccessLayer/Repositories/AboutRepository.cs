@@ -38,4 +38,29 @@ public class AboutRepository : IAboutDal
         using var c = new Context();
         return c.Abouts.Find(id);
     }
+
+    public void Insert(About t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Delete(About t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Update(About t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public List<About> GetListAll()
+    {
+        throw new NotImplementedException();
+    }
+
+    public About GetByID(int id)
+    {
+        throw new NotImplementedException();
+    }
 }
