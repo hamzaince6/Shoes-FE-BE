@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Shoes.Controllers;
 
-public class Category : Controller
+public class CategoryController : Controller
 {
     private CategoryManager cm = new CategoryManager(new EfCategoryRepository());
     // GET

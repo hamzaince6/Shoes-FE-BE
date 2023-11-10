@@ -34,4 +34,29 @@ public class ContackFormRepository : IContackFormDal
     {
         return c.ContackForms.Find(id);
     }
+
+    public void Insert(ContackForm t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Delete(ContackForm t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Update(ContackForm t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public List<ContackForm> GetListAll()
+    {
+        throw new NotImplementedException();
+    }
+
+    public ContackForm GetByID(int id)
+    {
+        throw new NotImplementedException();
+    }
 }

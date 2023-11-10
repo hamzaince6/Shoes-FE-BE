@@ -34,4 +34,29 @@ public class CategoryRepository: ICategoryDal
     {
         return c.Categories.Find(id);
     }
+
+    public void Insert(Category t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Delete(Category t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Update(Category t)
+    {
+        throw new NotImplementedException();
+    }
+
+    public List<Category> GetListAll()
+    {
+        throw new NotImplementedException();
+    }
+
+    public Category GetByID(int id)
+    {
+        throw new NotImplementedException();
+    }
 }
