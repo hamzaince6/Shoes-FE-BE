@@ -2178,6 +2178,7 @@
       <_ContentIncludedByDefault Remove="Pages\Main\Index.cshtml" />
       <_ContentIncludedByDefault Remove="Views\Pages\Main\Index.cshtml" />
       <_ContentIncludedByDefault Remove="Views\2\Index.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Default\Partial1.cshtml" />
     </ItemGroup>
 
     <ItemGroup>
